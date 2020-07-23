@@ -80,7 +80,7 @@ export default connect(
 
 #### `mapStateToProps`
 
-`mapStateToProps` takes the current state of your store returns an object. The object maps store values to values that will be available as props in your component.
+`mapStateToProps` takes the current state of your store and returns an object. The object maps store values to values that will be available as props in your component.
 
 ```js
 connect(
